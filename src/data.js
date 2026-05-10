@@ -68,9 +68,9 @@ export const data = {
     portfolio: {
       title: "Portfolio",
       items: [
-        { category: "AI Product", title: "AI Cross-border Platform", description: "An AI Agent-based cross-border business platform, optimizing transnational workflows and market analysis.", year: "2026", image: "/images/portfolio/1.png" },
-        { category: "Visual & AI", title: "Digital Twin", description: "Combining cutting-edge AI tech with 3D aesthetic to create a dedicated digital twin, exploring future visual expression.", year: "2026", image: "/images/portfolio/2.png" },
-        { category: "Mobile APP", title: "\"ChillOut Tracker\"", description: "A creative interactive APP designed and developed entirely using Vibe Coding methodologies.", year: "2026", image: "/images/portfolio/3.png" }
+        { category: "AI Product", title: "AI Cross-border Platform", description: "An AI Agent-based cross-border business platform, optimizing transnational workflows and market analysis.", year: "2026", image: "images/portfolio/1.png" },
+        { category: "Visual & AI", title: "Digital Twin", description: "Combining cutting-edge AI tech with 3D aesthetic to create a dedicated digital twin, exploring future visual expression.", year: "2026", image: "images/portfolio/2.png" },
+        { category: "Mobile APP", title: "\"ChillOut Tracker\"", description: "A creative interactive APP designed and developed entirely using Vibe Coding methodologies.", year: "2026", image: "images/portfolio/3.png" }
       ]
     },
     contact: {
@@ -150,9 +150,9 @@ export const data = {
     portfolio: {
       title: "作品集",
       items: [
-        { category: "AI 产品应用", title: "智能出海平台", description: "基于 AI Agent 构建的出海业务平台，优化跨国工作流与市场需求分析。", year: "2026", image: "/images/portfolio/1.png" },
-        { category: "视觉探索", title: "个人数字分身", description: "结合 AI 前 前沿技术与 3D 艺术审美，打造专属数字分身，探索未来视觉表达。", year: "2026", image: "/images/portfolio/2.png" },
-        { category: "移动应用", title: "“今天躺了吗” APP", description: "运用 Vibe Coding 方式独立完成设计与开发的创意互动 APP。", year: "2026", image: "/images/portfolio/3.png" }
+        { category: "AI 产品应用", title: "智能出海平台", description: "基于 AI Agent 构建的出海业务平台，优化跨国工作流与市场需求分析。", year: "2026", image: "images/portfolio/1.png" },
+        { category: "视觉探索", title: "个人数字分身", description: "结合 AI 前 前沿技术与 3D 艺术审美，打造专属数字分身，探索未来视觉表达。", year: "2026", image: "images/portfolio/2.png" },
+        { category: "移动应用", title: "“今天躺了吗” APP", description: "运用 Vibe Coding 方式独立完成设计与开发的创意互动 APP。", year: "2026", image: "images/portfolio/3.png" }
       ]
     },
     contact: {

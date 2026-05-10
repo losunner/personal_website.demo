@@ -179,7 +179,6 @@ function App() {
                       {project.description}
                     </p>
                   </div>
-                  <span className="text-sm font-mono opacity-40">{project.year}</span>
                 </div>
               </motion.div>
             ))}
